@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-Prototype-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 
 > A decentralized, secure messaging application developed as a second-year project for our college project exhibition. This application uses RSA for end-to-end encryption and a simplified blockchain ledger to store message history, ensuring that communication is both private and immutable.
 
